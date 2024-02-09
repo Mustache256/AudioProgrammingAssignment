@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingAssignment/AP_Assignment/Content/StarterContent/Audio/Collapse01.uasset"
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingAssignment/AP_Assignment/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingAssignment/AP_Assignment/Content/PlayerCharacter.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingAssignment/AP_Assignment/Content/BP_PlayerCharacter.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingAssignment/AP_Assignment/Content/BP_GameMode.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingAssignment/AP_Assignment/Content/Locomotion_BS.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingAssignment/AP_Assignment/Content/LocomotionCrouch_BS.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingAssignment/AP_Assignment/Content/PlayerCharacter_AB.uasset"
 			]
 		}
 	]
